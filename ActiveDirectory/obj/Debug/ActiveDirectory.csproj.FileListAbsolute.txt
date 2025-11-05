@@ -1,0 +1,64 @@
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe.config
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csprojResolveAssemblyReference.cache
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.AboutBox1.resources
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.resources
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.ru-RU.resources
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csproj.GenerateResource.Cache
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\bin\Debug\ru-RU\ActiveDirectory.resources.dll
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ru-RU\ActiveDirectory.resources.dll
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.exe
+C:\SYS\Script\C#\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe.config
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.exe
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ru-RU\ActiveDirectory.resources.dll
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csprojResolveAssemblyReference.cache
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.AboutBox1.resources
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.resources
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.ru-RU.resources
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csproj.GenerateResource.Cache
+Z:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ru-RU\ActiveDirectory.resources.dll
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe.config
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.exe
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ru-RU\ActiveDirectory.resources.dll
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csprojResolveAssemblyReference.cache
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.AboutBox1.resources
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.resources
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.ru-RU.resources
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csproj.GenerateResource.Cache
+Y:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ru-RU\ActiveDirectory.resources.dll
+D:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe.config
+D:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.exe
+D:\!My Project\C#\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe.config
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ru-RU\ActiveDirectory.resources.dll
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csprojResolveAssemblyReference.cache
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.AboutBox1.resources
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.resources
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.ru-RU.resources
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csproj.GenerateResource.Cache
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ru-RU\ActiveDirectory.resources.dll
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.exe
+D:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe.config
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.exe
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\bin\Debug\ru-RU\ActiveDirectory.resources.dll
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csprojAssemblyReference.cache
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.AboutBox1.resources
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.resources
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.frmAD.ru-RU.resources
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csproj.GenerateResource.cache
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.csproj.CoreCompileInputs.cache
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ru-RU\ActiveDirectory.resources.dll
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.exe
+F:\cSharp\In_Work\АД_новая версия\ActiveDirectory\obj\Debug\ActiveDirectory.pdb

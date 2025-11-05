@@ -1,0 +1,105 @@
+objectClass = System.Object[]
+cn = Нехорошев Михаил Владимирович
+sn = Нехорошев
+l = Москва
+title = Начальник отдела 
+telephoneNumber = 5463
+userCertificate = System.Object[]
+givenName = Михаил
+initials = В
+distinguishedName = CN=Нехорошев Михаил Владимирович,OU=Отдел поддержки ИТ-инфраструктуры,OU=Управление ИТ,OU=Users,OU=Central Office,OU=Bank,DC=cfb,DC=ru
+instanceType = 4
+whenCreated = 16.09.2013 8:57:19
+whenChanged = 22.12.2014 12:10:10
+displayName = Нехорошев Михаил Владимирович
+uSNCreated = System.__ComObject
+info = 25.02
+memberOf = System.Object[]
+uSNChanged = System.__ComObject
+department = Управление информационных технологий
+company = ООО "Банк БКФ - Центральный офис"
+homeMTA = CN=Microsoft MTA,CN=CO-S-EXCHANGE,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=First Organization,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=cfb,DC=ru
+proxyAddresses = System.Object[]
+homeMDB = CN=co-s-exchange-bd,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=First Organization,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=cfb,DC=ru
+mDBUseDefaults = True
+directReports = System.Object[]
+mailNickname = NekhoroshevMV
+protocolSettings = System.Object[]
+name = Нехорошев Михаил Владимирович
+objectGUID = System.Byte[]
+userAccountControl = 66048
+badPwdCount = 0
+codePage = 0
+countryCode = 0
+badPasswordTime = System.__ComObject
+lastLogon = System.__ComObject
+pwdLastSet = System.__ComObject
+primaryGroupID = 513
+objectSid = System.Byte[]
+adminCount = 1
+accountExpires = System.__ComObject
+logonCount = 1112
+sAMAccountName = NekhoroshevMV
+sAMAccountType = 805306368
+showInAddressBook = System.Object[]
+managedObjects = CN=Network Operations Center,OU=Technics Accounts,DC=cfb,DC=ru
+legacyExchangeDN = /o=First Organization/ou=First Administrative Group/cn=Recipients/cn=NekhoroshevMV
+userPrincipalName = NekhoroshevMV@cfb.ru
+objectCategory = CN=Person,CN=Schema,CN=Configuration,DC=cfb,DC=ru
+dSCorePropagationData = System.Object[]
+lastLogonTimestamp = System.__ComObject
+textEncodedORAddress = X400:C=RU;A= ;P=First Organizati;O=Exchange;S=NekhoroshevMV;I=?;
+mail = NekhoroshevMV@cfb.ru
+manager = CN=Плюхин Денис Владимирович,OU=Управление ИТ,OU=Users,OU=Central Office,OU=Bank,DC=cfb,DC=ru
+homePhone = +7-495-514-0810
+mobile = +7(915)021-2487
+thumbnailPhoto = System.Byte[]
+msExchHomeServerName = /o=First Organization/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CO-S-EXCHANGE
+msExchALObjectVersion = 345
+msExchMailboxSecurityDescriptor = System.__ComObject
+msExchUserAccountControl = 0
+msExchMailboxGuid = System.Byte[]
+msExchPoliciesIncluded = System.Object[]
+msExchWhenMailboxCreated = 30.08.2014 8:25:13
+msExchUserCulture = ru-RU
+msExchVersion = System.__ComObject
+msExchRBACPolicyLink = CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=First Organization,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=cfb,DC=ru
+msExchTextMessagingState = System.Object[]
+msExchRecipientDisplayType = 1073741824
+msExchRecipientTypeDetails = System.__ComObject
+msExchDelegateListBL = System.Object[]
+msExchUMDtmfMap = System.Object[]
+msExchSafeSendersHash = System.Byte[]
+msExchMobileMailboxFlags = 1
+nTSecurityDescriptor = System.__ComObject
+
+
+
+
+
+
+doku.php/start?do=admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACCOUNTDISABLE
+LOCKOUT
+PASSWD_NOTREQD
+PASSWD_CANT_CHANGE
+DONT_EXPIRE_PASSWD
+SMARTCARD_REQUIRED
+
+chbSmartRequired.Checked
